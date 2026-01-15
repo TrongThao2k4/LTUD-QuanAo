@@ -1,0 +1,15 @@
+========= HÓA ĐƠN BÁN HÀNG =========
+Mã hóa đơn: HD004
+Ngày lập: 03/08/2025 17:16:01
+Khách hàng: Khách vãng lai - 0000000000
+------------------------------------
+Mã SP      Tên SP          Đơn giá    SL         Thành tiền
+SP102      Áo thun thể thao nữ Adidas in logo 300.000    1          210.000   
+SP105      Giày thể thao nữ Adidas 950.000    1          665.000   
+------------------------------------
+Tổng số lượng: 2
+Tổng giá trị: 875.000 VNĐ
+Tiền khách đưa: 875000
+Tiền trả lại: 0
+====================================
+Cảm ơn quý khách. Hẹn gặp lại!

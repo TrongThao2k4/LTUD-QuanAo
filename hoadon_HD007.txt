@@ -1,0 +1,15 @@
+========= HÓA ĐƠN BÁN HÀNG =========
+Mã hóa đơn: HD007
+Ngày lập: 04/08/2025 13:58:38
+Khách hàng: TRƯƠNG TRỌNG THẢO - 0917607248
+------------------------------------
+Mã SP      Tên SP          Đơn giá    SL         Thành tiền
+SP103      Quần chạy bộ nam Adidas 280.000    1          224.000   
+SP105      Giày thể thao nữ Adidas 950.000    1          760.000   
+------------------------------------
+Tổng số lượng: 2
+Tổng giá trị: 984.000 VNĐ
+Tiền khách đưa: 1000000
+Tiền trả lại: 16.000
+====================================
+Cảm ơn quý khách. Hẹn gặp lại!

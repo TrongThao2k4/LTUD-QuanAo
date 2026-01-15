@@ -1,0 +1,14 @@
+========= HÓA ĐƠN BÁN HÀNG =========
+Mã hóa đơn: HD005
+Ngày lập: 03/08/2025 21:37:34
+Khách hàng: Khách vãng lai - 0000000000
+------------------------------------
+Mã SP      Tên SP          Đơn giá    SL         Thành tiền
+SP101      Áo thun thể thao Adidas kẻ sọc 350.000    1          350.000   
+------------------------------------
+Tổng số lượng: 1
+Tổng giá trị: 350.000 VNĐ
+Tiền khách đưa: 500000
+Tiền trả lại: 150.000
+====================================
+Cảm ơn quý khách. Hẹn gặp lại!

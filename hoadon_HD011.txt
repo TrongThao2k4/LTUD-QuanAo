@@ -1,0 +1,14 @@
+========= HÓA ĐƠN BÁN HÀNG =========
+Mã hóa đơn: HD011
+Ngày lập: 03/08/2025 13:53:09
+Khách hàng: Khách vãng lai - 0000000000
+------------------------------------
+Mã SP      Tên SP          Đơn giá    SL         Thành tiền
+SP104      Chân váy thể thao nữ Adidas 420.000    1          420.000   
+------------------------------------
+Tổng số lượng: 1
+Tổng giá trị: 420.000 VNĐ
+Tiền khách đưa: 500000
+Tiền trả lại: 80.000
+====================================
+Cảm ơn quý khách. Hẹn gặp lại!

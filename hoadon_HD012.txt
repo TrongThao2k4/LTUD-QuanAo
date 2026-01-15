@@ -1,0 +1,14 @@
+========= HÓA ĐƠN BÁN HÀNG =========
+Mã hóa đơn: HD012
+Ngày lập: 03/08/2025 14:00:08
+Khách hàng: Khách vãng lai - 0000000000
+------------------------------------
+Mã SP      Tên SP          Đơn giá    SL         Thành tiền
+SP102      Áo thun thể thao nữ Adidas in logo 300.000    1          300.000   
+------------------------------------
+Tổng số lượng: 1
+Tổng giá trị: 300.000 VNĐ
+Tiền khách đưa: 500000
+Tiền trả lại: 200.000
+====================================
+Cảm ơn quý khách. Hẹn gặp lại!
